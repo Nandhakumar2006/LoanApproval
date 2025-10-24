@@ -131,4 +131,3 @@ But remind it that using gridsearch and all would take mus=ch more time...
 
 https://huggingface.co/spaces/nandha-01/LoanApprovalPrediction
 
-
